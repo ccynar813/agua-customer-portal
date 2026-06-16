@@ -1,2 +1,7 @@
-# agua-customer-portal
-Customer self-service portal for Agua customers to view orders, invoices, and support tickets.
+# Agua Customer Portal
+
+A self-service portal allowing customers to:
+
+- View invoices
+- Track orders
+- Submit support requests

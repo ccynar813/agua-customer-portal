@@ -15,3 +15,5 @@ Customers can:
 - View invoice history
 - Download invoices
 - Filter by date
+
+Additional work on invoice history page

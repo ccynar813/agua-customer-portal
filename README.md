@@ -16,4 +16,4 @@ Customers can:
 - Download invoices
 - Filter by date
 
-Making changes to create a new PR
+Making change to create a new PR

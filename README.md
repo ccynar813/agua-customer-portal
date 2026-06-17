@@ -17,6 +17,6 @@ Customers can:
 - Download invoices
 - Filter by date
 
-Additional work on invoice history page
+Making changes for PR sync
 
 

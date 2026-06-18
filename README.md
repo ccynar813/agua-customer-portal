@@ -19,7 +19,7 @@ Customers can:
 - View invoice history
 - Download invoices
 - Filter by date
-
-Additional work being made on the invoice history page
+- 
+Making changes to the invoice history page
 
 
